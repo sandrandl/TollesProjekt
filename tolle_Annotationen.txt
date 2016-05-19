@@ -1,4 +1,4 @@
-ist	VRB|VEX	sîn	NOUN
+ist	VRB|VEX	sîn	ADV|NOUN
 zwîvel	NOM	zwîvel	NOUN
 herzen	NOM	herze	NOUN
 nâchgebûr	NOM	nâchbûre	NOUN
