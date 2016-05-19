@@ -22,7 +22,7 @@ mannes	NOM	man	NOUN
 muot	NOM	muot	NOUN
 ,	0	,	PUNCT
 als	CNJ	als	SCONJ
-agelstern	NOM	agelster	NOUN
+agelstern	NOM	agelster	VERB
 varwe	NOM|ADJ	varwe	NOUN
 tuot	VRB	tuon	VERB
 .	0	.	SPUNCT
